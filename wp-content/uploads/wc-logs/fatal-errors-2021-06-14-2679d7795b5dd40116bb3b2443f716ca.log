@@ -1,0 +1,360 @@
+2021-06-14T17:30:46+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:31:03+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:31:17+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:31:36+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:31:44+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:32:44+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:32:54+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:33:00+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:33:16+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:33:39+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:34:10+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:34:52+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:34:59+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:34:59+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:35:00+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:35:00+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:35:00+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:35:57+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:36:19+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:37:06+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:37:20+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:38:41+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:39:02+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:44:15+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:44:41+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:46:12+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:47:30+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:48:06+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:48:44+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
+2021-06-14T17:51:33+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php:493
+Stack trace:
+#0 C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php(290): WP_Object_Cache->_exists('alloptions', 'options')
+#1 C:\wamp64\www\Royalpotters\wp-includes\cache.php(125): WP_Object_Cache->get('alloptions', 'options', false, NULL)
+#2 C:\wamp64\www\Royalpotters\wp-includes\option.php(230): wp_cache_get('alloptions', 'options', false)
+#3 C:\wamp64\www\Royalpotters\wp-includes\option.php(116): wp_load_alloptions()
+#4 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3197): get_option('home')
+#5 C:\wamp64\www\Royalpotters\wp-includes\link-template.php(3171): get_home_url(NULL, '', NULL)
+#6 C:\wamp64\www\Royalpotters\wp-includes\general-template.php(778): home_url()
+#7 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(191): get_bloginfo('url')
+#8 C:\wamp64\www\Royalpotters\wp-includes\class-http.php(626): WP_Http->request('https://websi in C:\wamp64\www\Royalpotters\wp-includes\class-wp-object-cache.php on line 493
+
